@@ -1,0 +1,7 @@
+#include<iostream>a
+
+int main()b
+{
+	std::cout << "Hello, world!" << std::endl;c
+	return 0;d
+}
