@@ -1,2 +1,4 @@
 file4.txt
+build/
+*.swp
 
